@@ -1,0 +1,9 @@
+C:\Users\Ben\Desktop\Programming\Visual Studio\GitHub\VisualStudio\Budget_Windows\Budget_Windows\bin\Debug\Budget_Windows.exe.config
+C:\Users\Ben\Desktop\Programming\Visual Studio\GitHub\VisualStudio\Budget_Windows\Budget_Windows\obj\Debug\Budget_Windows.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Desktop\Programming\Visual Studio\GitHub\VisualStudio\Budget_Windows\Budget_Windows\obj\Debug\Budget_Windows.bmg_mainForm.resources
+C:\Users\Ben\Desktop\Programming\Visual Studio\GitHub\VisualStudio\Budget_Windows\Budget_Windows\obj\Debug\Budget_Windows.Properties.Resources.resources
+C:\Users\Ben\Desktop\Programming\Visual Studio\GitHub\VisualStudio\Budget_Windows\Budget_Windows\obj\Debug\Budget_Windows.csproj.GenerateResource.Cache
+C:\Users\Ben\Desktop\Programming\Visual Studio\GitHub\VisualStudio\Budget_Windows\Budget_Windows\bin\Debug\Budget_Windows.exe
+C:\Users\Ben\Desktop\Programming\Visual Studio\GitHub\VisualStudio\Budget_Windows\Budget_Windows\bin\Debug\Budget_Windows.pdb
+C:\Users\Ben\Desktop\Programming\Visual Studio\GitHub\VisualStudio\Budget_Windows\Budget_Windows\obj\Debug\Budget_Windows.exe
+C:\Users\Ben\Desktop\Programming\Visual Studio\GitHub\VisualStudio\Budget_Windows\Budget_Windows\obj\Debug\Budget_Windows.pdb
